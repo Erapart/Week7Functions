@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malle\\source\\repos\\Week7Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1944B782-7533-4399-9253-5FA2370D7A7E}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|c:\\users\\malle\\source\\repos\\week7functions\\displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1944B782-7533-4399-9253-5FA2370D7A7E}|DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|solutionrelative:displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F85FAC-2607-4384-ACEA-37E77F57D470}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|c:\\users\\malle\\source\\repos\\week7functions\\calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F85FAC-2607-4384-ACEA-37E77F57D470}|CalculatorWithFunctions\\CalculatorWithFunctions.csproj|solutionrelative:calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9435A24-3DEB-4A7A-80A4-F1A5DE677BC2}|Week7Functions\\Week7Functions.csproj|c:\\users\\malle\\source\\repos\\week7functions\\week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9435A24-3DEB-4A7A-80A4-F1A5DE677BC2}|Week7Functions\\Week7Functions.csproj|solutionrelative:week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeDocumentMoniker": "DisplayArrayElementsFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week7Functions\\DisplayArrayElementsFunction\\Program.cs*",
+              "RelativeToolTip": "DisplayArrayElementsFunction\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:02:09.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWithFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week7Functions\\CalculatorWithFunctions\\Program.cs",
+              "RelativeToolTip": "CalculatorWithFunctions\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:42:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malle\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Week7Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\malle\\source\\repos\\Week7Functions\\Week7Functions\\Program.cs",
+              "RelativeToolTip": "Week7Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:27:59.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
